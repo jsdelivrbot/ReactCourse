@@ -1,0 +1,16 @@
+Course notes
+
+
+
+- go to the project folder
+- npm start
+- localhost:8080
+
+- only one component per file
+
+
+- you can see the installed packages in package.json
+
+- downward data flow. Most parent calls the data and populates to the children.
+
+
